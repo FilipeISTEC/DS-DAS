@@ -5,6 +5,4 @@ var_dump($alfa);
 echo NL;
 $bravo = array(3,4,5,6);
 print_r($bravo);
-
-print_r($alfa)
 ?>
